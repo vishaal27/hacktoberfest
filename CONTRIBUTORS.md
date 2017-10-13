@@ -301,3 +301,8 @@
 - Bio: A guy who loves IT :D
 - GitHub: [Alisson Vargas](https://github.com/alisson-mich)
 
+#### Name: [Vikranth Udandarao](https://github.com/vikurao)
+- Place: Muscat, Oman
+- Bio: Grade 8 Student
+- GitHub: [Vikranth Udandarao](https://github.com/vikurao)
+
